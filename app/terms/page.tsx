@@ -76,16 +76,17 @@ export default function TermsPage() {
         {/* Section 2 */}
         <div className="space-y-3">
           <span className="text-[10px] font-mono tracking-widest uppercase text-[#cda45e] block">
-            02 / RERA REGISTRATION & COMPLIANCE
+            02 / REGULATORY NOTICE & DEMO STATUS
           </span>
           <h2 className="font-serif text-2xl text-white font-normal uppercase">
-            Statutory Transparency
+            Portfolio Concept Status
           </h2>
           <p>
-            In actual practice, Aarvana developments comply with statutory provisions established
-            under the Real Estate (Regulation and Development) Act (RERA). Aarvana Verde carries
-            demonstration registration TN/RERA/2024/0942. Complete statutory filings, sanctions,
-            and approvals are maintained at the on-site Experience Gallery.
+            Aarvana Verde is a conceptual portfolio design project. It is not registered with
+            or sanctioned by any statutory Real Estate Regulatory Authority (RERA) and does not
+            represent an active residential offering or public solicitation. All project
+            architectural files, dimensions, and floor plans are created strictly for portfolio
+            demonstration.
           </p>
         </div>
 

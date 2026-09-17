@@ -147,9 +147,9 @@ export default function LocationSection() {
               </svg>
             </div>
             <div className="flex items-center justify-between text-[11px] text-stone-500 font-mono mt-3">
-              <span>Map rendering is stylized for orientation clarity.</span>
+              <span>Map rendering and travel times are illustrative demo estimates.</span>
               <span className="text-[#a16207] flex items-center gap-1 font-medium">
-                <Navigation className="w-3 h-3" /> Live GPS Coordinates
+                <Navigation className="w-3 h-3" /> Illustrative Coordinates
               </span>
             </div>
           </div>

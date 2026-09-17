@@ -66,7 +66,7 @@ export default function ProjectIntro() {
     { value: '2,450–3,850', unit: 'SQ.FT.', label: 'Carpet Area', detail: 'Generous private structural volumes' },
     { value: '24', unit: 'ACRES', label: 'Verdant Terrain', detail: 'Preserved native tree canopy' },
     { value: '36', unit: 'RESIDENCES', label: 'Low-Density Enclave', detail: 'Peaceful seclusion & privacy' },
-    { value: '2028', unit: 'HANDOVER', label: 'Possession', detail: 'TN RERA: TN/RERA/2024/0942' },
+    { value: '2028', unit: 'HANDOVER', label: 'Possession Target', detail: 'Portfolio Concept • Demo' },
   ];
 
   return (

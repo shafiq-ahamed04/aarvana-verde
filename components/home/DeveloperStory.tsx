@@ -3,10 +3,10 @@
 import Image from 'next/image';
 
 const stats = [
-  { value: '30+', label: 'Years of Practice', detail: 'Founded in 1994 with an uncompromising architectural ethos.' },
-  { value: '42', label: 'Delivered Projects', detail: 'Landmark residential and institutional developments across South India.' },
-  { value: '12,000+', label: 'Resident Families', detail: 'Generations who call Aarvana communities their lifelong sanctuary.' },
-  { value: '18M+', label: 'Sq.Ft. Built', detail: 'Engineered with structural longevity, lasting finishes, and natural stone.' },
+  { value: '30+', label: 'Conceived Ethos', detail: 'Illustrative architectural practice model for portfolio demonstration.' },
+  { value: '42', label: 'Conceived Enclaves', detail: 'Illustrative residential and community design concepts across South India.' },
+  { value: '12,000+', label: 'Design Capacity', detail: 'Scaled residential masterplanning benchmark for low-density sanctuaries.' },
+  { value: '18M+', label: 'Modeled Sq.Ft.', detail: 'Architectural space modeled with natural stone and climate-responsive volumes.' },
 ];
 
 export default function DeveloperStory() {
@@ -63,6 +63,11 @@ export default function DeveloperStory() {
             </div>
           ))}
         </div>
+
+        {/* Concept Disclaimer Subtext */}
+        <p className="text-[11px] font-mono text-stone-500 text-center sm:text-left mt-3">
+          * Illustrative studio benchmarks presented as part of the fictional portfolio concept showcase.
+        </p>
 
         {/* Craftsmanship Visual Triptych */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-16">

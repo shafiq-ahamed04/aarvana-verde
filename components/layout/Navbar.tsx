@@ -160,13 +160,13 @@ export default function Navbar() {
             <div className="pt-8 border-t border-stone-800/80 space-y-5">
               <div className="space-y-1">
                 <p className="text-[10px] tracking-[0.25em] uppercase font-medium text-stone-500">
-                  Aarvana Verde Pavilion
+                  Aarvana Verde Pavilion (Concept)
                 </p>
                 <p className="text-xs font-light text-stone-300">
-                  Old Mahabalipuram Road (OMR), Chennai
+                  OMR Corridor, Chennai (Demo Setting)
                 </p>
                 <p className="text-xs font-mono text-stone-400">
-                  +91 44 2835 7700
+                  +91 44 2835 7700 (Demo Line)
                 </p>
               </div>
 

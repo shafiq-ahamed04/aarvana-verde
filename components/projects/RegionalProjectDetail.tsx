@@ -104,7 +104,7 @@ export default function RegionalProjectDetail({ project }: RegionalProjectDetail
               <MapPin className="w-3.5 h-3.5 text-[#cda45e]" />
               <span>{project.location}</span>
               <span className="text-stone-600">•</span>
-              <span>RERA: {project.reraNumber}</span>
+              <span>Status: {project.reraNumber}</span>
             </div>
           </div>
 

@@ -321,7 +321,7 @@ export default function AboutView() {
           </div>
 
           <div className="mt-12 text-xs font-mono text-stone-500">
-            Private Advisory: +91 44 2830 9000 • privateclients@aarvanadevelopers.com
+            Demo Advisory Channel: +91 44 2830 9000 • privateclients@aarvanadevelopers.com (Portfolio Concept)
           </div>
         </div>
       </section>

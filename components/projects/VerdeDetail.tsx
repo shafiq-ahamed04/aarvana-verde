@@ -293,7 +293,7 @@ export default function VerdeDetail({ project }: VerdeDetailProps) {
             </p>
             <div className="mt-8 flex items-center gap-3 text-xs font-mono text-stone-400">
               <span className="w-2 h-2 rounded-full bg-[#cda45e]" />
-              <span>TN RERA Registered: {project.reraNumber}</span>
+              <span>Regulatory Status: {project.reraNumber}</span>
             </div>
           </div>
 
@@ -853,7 +853,7 @@ export default function VerdeDetail({ project }: VerdeDetailProps) {
             {/* Travel Time Cards */}
             <div className="lg:col-span-5 space-y-3">
               <span className="text-[10px] font-mono tracking-widest uppercase text-stone-500 block mb-2">
-                VERIFIED TRANSIT TIMES
+                ILLUSTRATIVE DISTANCES & ESTIMATES
               </span>
               {project.locationPoints.map((point) => (
                 <div
@@ -1069,14 +1069,14 @@ export default function VerdeDetail({ project }: VerdeDetailProps) {
               className="flex items-center gap-2 hover:text-[#cda45e] transition-colors"
             >
               <MessageSquare className="w-4 h-4 text-[#cda45e]" />
-              <span>WhatsApp Concierge</span>
+              <span>WhatsApp Concierge (Demo)</span>
             </a>
             <a
               href="tel:+914428309000"
               className="flex items-center gap-2 hover:text-[#cda45e] transition-colors"
             >
               <Phone className="w-4 h-4 text-[#cda45e]" />
-              <span>Direct Concierge: +91 44 2830 9000</span>
+              <span>Concierge (Demo): +91 44 2830 9000</span>
             </a>
             <Link
               href="/projects"

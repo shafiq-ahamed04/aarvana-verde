@@ -143,7 +143,7 @@ export default function ProjectsArchive({ projects }: ProjectsArchiveProps) {
                 <span className="text-stone-200 mt-1 block font-medium">2,450 – 3,850 Sq.Ft.</span>
               </div>
               <div className="border border-stone-800/80 p-3 bg-stone-900/40">
-                <span className="text-stone-500 block text-[10px] uppercase">RERA Registration</span>
+                <span className="text-stone-500 block text-[10px] uppercase">Regulatory Status</span>
                 <span className="text-[#cda45e] mt-1 block font-medium">{verde.reraNumber}</span>
               </div>
             </div>
@@ -351,7 +351,7 @@ export default function ProjectsArchive({ projects }: ProjectsArchiveProps) {
             </button>
           </div>
           <div className="mt-12 text-xs font-mono text-stone-500">
-            Private Concierge: +91 44 2830 9000 • privateclients@aarvanadevelopers.com
+            Demo Concierge Channel: +91 44 2830 9000 • privateclients@aarvanadevelopers.com (Portfolio Concept)
           </div>
         </div>
       </section>

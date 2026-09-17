@@ -51,7 +51,7 @@ export const faqs: FAQItem[] = [
   {
     id: 'rera',
     question: 'What is the regulatory and RERA registration status?',
-    answer: 'Aarvana Verde is fully sanctioned under Tamil Nadu Real Estate Regulatory Authority (TNRERA) registration number TN/RERA/2024/0942. All approvals, environmental clearances, and title deeds are available for verification at our pavilion.',
+    answer: 'Aarvana Verde is a conceptual portfolio design showcase. All regulatory references, architectural specifications, and floor plan models on this website are illustrative demo assets and do not constitute a real-world commercial offering.',
     category: 'legal',
   },
 ];

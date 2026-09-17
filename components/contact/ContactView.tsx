@@ -135,10 +135,10 @@ export default function ContactView() {
                   </div>
                   <div>
                     <span className="text-[10px] font-mono text-stone-500 uppercase tracking-wider block">
-                      Direct Advisory Phone
+                      Advisory Phone (Demo Concept)
                     </span>
                     <span className="text-stone-100 font-medium text-sm sm:text-base group-hover:text-[#cda45e] transition-colors">
-                      +91 44 2830 9000
+                      +91 44 2830 9000 (Demo)
                     </span>
                   </div>
                 </div>
@@ -157,10 +157,10 @@ export default function ContactView() {
                   </div>
                   <div>
                     <span className="text-[10px] font-mono text-stone-500 uppercase tracking-wider block">
-                      WhatsApp Concierge
+                      WhatsApp Concierge (Demo Channel)
                     </span>
                     <span className="text-stone-100 font-medium text-sm sm:text-base group-hover:text-[#cda45e] transition-colors">
-                      +91 98400 12345
+                      +91 98400 12345 (Demo)
                     </span>
                   </div>
                 </div>
@@ -177,7 +177,7 @@ export default function ContactView() {
                   </div>
                   <div>
                     <span className="text-[10px] font-mono text-stone-500 uppercase tracking-wider block">
-                      Confidential Email
+                      Electronic Inquiries (Demo)
                     </span>
                     <span className="text-stone-100 font-medium text-xs sm:text-sm group-hover:text-[#cda45e] transition-colors">
                       privateclients@aarvanadevelopers.com
@@ -192,13 +192,13 @@ export default function ContactView() {
             <div className="border border-stone-800 bg-[#10100f] p-6 sm:p-8 rounded-sm space-y-4">
               <div className="flex items-center gap-2 text-xs font-mono text-[#cda45e] uppercase">
                 <MapPin className="w-4 h-4" />
-                <span>The Experience Pavilion</span>
+                <span>The Experience Pavilion (Fictional Concept)</span>
               </div>
               <div>
-                <h4 className="font-serif text-lg text-white font-normal">Aarvana Verde Experience Gallery</h4>
+                <h4 className="font-serif text-lg text-white font-normal">Aarvana Verde Experience Pavilion</h4>
                 <p className="text-xs text-stone-400 mt-1 leading-relaxed font-light">
-                  Off Old Mahabalipuram Road, Sholinganallur<br />
-                  Chennai, Tamil Nadu 600119
+                  Off Old Mahabalipuram Road Corridor (OMR)<br />
+                  Chennai, Tamil Nadu, India (Concept Setting)
                 </p>
               </div>
               <div className="pt-4 border-t border-stone-800 text-[11px] font-mono text-stone-500 space-y-1">
@@ -220,14 +220,14 @@ export default function ContactView() {
                 </div>
                 <div className="space-y-2">
                   <span className="text-[10px] font-mono text-[#cda45e] uppercase tracking-widest block">
-                    CONSULTATION CONFIRMED
+                    DEMO CONSULTATION RECORDED
                   </span>
                   <h3 className="font-serif text-3xl text-white font-normal uppercase">
                     Thank You, {formData.name}.
                   </h3>
                   <p className="text-sm text-stone-300 font-light max-w-md mx-auto leading-relaxed">
-                    Your inquiry for <span className="text-[#cda45e] font-medium">{formData.project}</span> has been received.
-                    Our senior private client director will reach out to you within 4 business hours via phone or WhatsApp.
+                    Your demo request for <span className="text-[#cda45e] font-medium">{formData.project}</span> has been processed.
+                    This is a fictional portfolio showcase demonstrating client inquiry and advisory workflows.
                   </p>
                 </div>
 

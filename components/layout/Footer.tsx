@@ -80,13 +80,12 @@ export default function Footer() {
               Experience Pavilion
             </p>
             <div className="space-y-2 text-xs text-stone-300 font-light">
-              <p className="text-stone-100 font-normal">Aarvana Verde Experience Pavilion</p>
-              <p>Off Old Mahabalipuram Road (OMR), Near Sholinganallur</p>
-              <p>Chennai, Tamil Nadu 600096, India</p>
+              <p className="text-stone-100 font-normal">Aarvana Verde Experience Pavilion (Concept)</p>
+              <p>Off Old Mahabalipuram Road Corridor (OMR), Chennai (Demo Location)</p>
               <div className="pt-2 text-stone-400 space-y-1 font-mono text-[11px]">
-                <p>Concierge: +91 44 2835 7700</p>
-                <p>Inquiries: private@aarvana.com</p>
-                <p>Walkthroughs: Tuesday – Sunday, by appointment</p>
+                <p>Concierge (Demo): +91 44 2835 7700</p>
+                <p>Inquiries: demo@aarvana.com (Portfolio Concept)</p>
+                <p>Walkthroughs: By appointment (Demo Concept)</p>
               </div>
             </div>
           </div>
@@ -96,10 +95,10 @@ export default function Footer() {
         <div className="py-10 border-b border-stone-800/60 space-y-4 text-[11px] text-stone-500 leading-relaxed font-light">
           <div className="flex flex-wrap items-center gap-4 text-stone-400">
             <span className="px-2 py-0.5 border border-stone-800 text-[10px] font-mono uppercase tracking-wider text-stone-300">
-              TNRERA REGISTRATION: TN/RERA/2024/0942
+              RERA STATUS: DEMO PORTFOLIO CONCEPT — NOT AN ACTIVE OFFERING
             </span>
             <span className="text-[10px] tracking-wider uppercase text-stone-400">
-              Sanctioned Project Plan & Title Clearances Available on Site
+              Conceptual Architectural Plans & Renders for Design Demonstration
             </span>
           </div>
 
